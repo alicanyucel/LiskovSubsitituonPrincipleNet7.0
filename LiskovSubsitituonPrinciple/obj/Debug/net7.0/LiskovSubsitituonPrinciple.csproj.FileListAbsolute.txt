@@ -1,0 +1,5 @@
+C:\Users\Alican\source\repos\LiskovSubsitituonPrinciple\LiskovSubsitituonPrinciple\obj\Debug\net7.0\LiskovSubsitituonPrinciple.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\LiskovSubsitituonPrinciple\LiskovSubsitituonPrinciple\obj\Debug\net7.0\LiskovSubsitituonPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\LiskovSubsitituonPrinciple\LiskovSubsitituonPrinciple\obj\Debug\net7.0\LiskovSubsitituonPrinciple.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\LiskovSubsitituonPrinciple\LiskovSubsitituonPrinciple\obj\Debug\net7.0\LiskovSubsitituonPrinciple.AssemblyInfo.cs
+C:\Users\Alican\source\repos\LiskovSubsitituonPrinciple\LiskovSubsitituonPrinciple\obj\Debug\net7.0\LiskovSubsitituonPrinciple.csproj.CoreCompileInputs.cache
